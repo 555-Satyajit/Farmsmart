@@ -100,7 +100,7 @@ const LandingPage = () => {
       title: 'Crop Yield Prediction',
       description: 'Get accurate yield forecasts using advanced machine learning models that consider multiple agricultural variables.',
       icon: Sprout,
-      link: ' http://localhost:8501'
+      link: ' https://huggingface.co/spaces/Satya-555/crop-predictor'
     },
     {
       title: 'Disease Detection',
