@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from 'react';
+<<<<<<< HEAD
 import { Link } from 'react-router-dom';
+=======
+>>>>>>> 4e840f0d318d6c3669c78e8cca292fc561c84cae
 import LoadingSpinner from './LoadingSpinner';
 import { 
   Sprout, 
@@ -129,7 +132,11 @@ const LandingPage = () => {
               <a href="#testimonials" className="text-[#E6B17E] hover:text-[#F3D5B5] transition-colors duration-300">Testimonials</a>
               <a href="#about" className="text-[#E6B17E] hover:text-[#F3D5B5] transition-colors duration-300">About</a>
               <a href="/login" className="text-[#E6B17E] hover:text-[#F3D5B5] transition-colors duration-300">Login</a>
+<<<<<<< HEAD
               <a href="/register" className="bg-[#8B4513] text-white px-6 py-2 rounded-lg hover:bg-[#A0522D] transition-colors duration-300 shadow-lg">
+=======
+              <a href="/signup" className="bg-[#8B4513] text-white px-6 py-2 rounded-lg hover:bg-[#A0522D] transition-colors duration-300 shadow-lg">
+>>>>>>> 4e840f0d318d6c3669c78e8cca292fc561c84cae
                 Get Started
               </a>
             </div>
@@ -152,8 +159,13 @@ const LandingPage = () => {
               <a href="#ml-tools" className="block px-3 py-2 text-[#E6B17E] hover:text-[#F3D5B5]">ML Tools</a>
               <a href="#testimonials" className="block px-3 py-2 text-[#E6B17E] hover:text-[#F3D5B5]">Testimonials</a>
               <a href="#about" className="block px-3 py-2 text-[#E6B17E] hover:text-[#F3D5B5]">About</a>
+<<<<<<< HEAD
               <Link to="/login" className="text-[#E6B17E] hover:text-[#F3D5B5] transition-colors duration-300">Login</Link>
               <a href="/register" className="block px-3 py-2 text-[#E6B17E] font-medium">Get Started</a>
+=======
+              <a href="/login" className="block px-3 py-2 text-[#E6B17E] hover:text-[#F3D5B5]">Login</a>
+              <a href="/signup" className="block px-3 py-2 text-[#E6B17E] font-medium">Get Started</a>
+>>>>>>> 4e840f0d318d6c3669c78e8cca292fc561c84cae
             </div>
           </div>
         )}
@@ -179,7 +191,11 @@ const LandingPage = () => {
               Experience the perfect balance of time-tested practices and cutting-edge technology.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
+<<<<<<< HEAD
               <a href="/register" className="inline-block bg-[#8B4513] text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-[#A0522D] transform hover:scale-105 transition-all duration-300 shadow-lg">
+=======
+              <a href="/signup" className="inline-block bg-[#8B4513] text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-[#A0522D] transform hover:scale-105 transition-all duration-300 shadow-lg">
+>>>>>>> 4e840f0d318d6c3669c78e8cca292fc561c84cae
                 Start Your Journey
               </a>
               <a href="#features" className="inline-block bg-[#E6B17E]/10 text-[#E6B17E] border border-[#E6B17E] px-8 py-3 rounded-lg text-lg font-semibold hover:bg-[#E6B17E]/20 transform hover:scale-105 transition-all duration-300">

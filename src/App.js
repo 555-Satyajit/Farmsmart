@@ -1,4 +1,5 @@
 import './App.css';
+<<<<<<< HEAD
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { AuthProvider } from './AuthContext';
 import { Toaster } from 'react-hot-toast';
@@ -10,10 +11,14 @@ import AgronomistDashboard from './AgronomistDashboard';
 import FarmerDashboard from './FarmerDashboard';
 import UnauthorizedPage from './UnauthorizedPage';
 
+=======
+import LandingPage from './LandingPage'; // Importing the LandingPage component
+>>>>>>> 4e840f0d318d6c3669c78e8cca292fc561c84cae
 
 function App() {
   return (
     <div className="App">
+<<<<<<< HEAD
       <Router>
         <AuthProvider>
           <Toaster position="top-right" />
@@ -44,4 +49,11 @@ function App() {
     </div>
   );
 }
+=======
+      <LandingPage /> {/* Rendering the LandingPage component */}
+    </div>
+  );
+}
+
+>>>>>>> 4e840f0d318d6c3669c78e8cca292fc561c84cae
 export default App;
