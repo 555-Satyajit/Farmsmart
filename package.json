@@ -36,7 +36,7 @@
     "@capacitor/share": "^6.0.3",
     "@capacitor/status-bar": "^6.0.2",
 
- 4e840f0d318d6c3669c78e8cca292fc561c84cae
+
     "autoprefixer": "^10.4.20",
     "cra-template": "1.2.0",
     "lucide-react": "^0.469.0",
@@ -47,7 +47,7 @@
     "react-hot-toast": "^2.4.1",
     "react-router-dom": "^7.1.1",
 
- 4e840f0d318d6c3669c78e8cca292fc561c84cae
+
     "react-scripts": "5.0.1",
     "tailwindcss": "^3.4.17",
     "web-vitals": "^4.2.4"
@@ -75,6 +75,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-20bf5182d7b871f63ecdf3ce6148db91ed52ca6e
+
   }
 }
