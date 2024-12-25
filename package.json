@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
@@ -22,12 +21,12 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.9.2",
     "nodemailer": "^6.9.16"
-=======
+
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
+
     "@capacitor/android": "^6.2.0",
     "@capacitor/app": "^6.0.2",
     "@capacitor/cli": "^6.2.0",
@@ -36,19 +35,19 @@
     "@capacitor/ios": "^6.2.0",
     "@capacitor/share": "^6.0.3",
     "@capacitor/status-bar": "^6.0.2",
-=======
->>>>>>> 4e840f0d318d6c3669c78e8cca292fc561c84cae
+
+ 4e840f0d318d6c3669c78e8cca292fc561c84cae
     "autoprefixer": "^10.4.20",
     "cra-template": "1.2.0",
     "lucide-react": "^0.469.0",
     "postcss": "^8.4.49",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-<<<<<<< HEAD
+
     "react-hot-toast": "^2.4.1",
     "react-router-dom": "^7.1.1",
-=======
->>>>>>> 4e840f0d318d6c3669c78e8cca292fc561c84cae
+
+ 4e840f0d318d6c3669c78e8cca292fc561c84cae
     "react-scripts": "5.0.1",
     "tailwindcss": "^3.4.17",
     "web-vitals": "^4.2.4"
@@ -76,6 +75,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> 20bf5182d7b871f63ecdf3ce6148db91ed52ca6e
+20bf5182d7b871f63ecdf3ce6148db91ed52ca6e
   }
 }
